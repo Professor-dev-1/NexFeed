@@ -16,3 +16,8 @@ ul a :rover {
   text-decoration : underline;
   color : black;
 }
+#header {
+  background-colour : #5c755e;
+  margin : 100px;
+  height :90px;
+}
