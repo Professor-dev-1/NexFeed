@@ -3,23 +3,14 @@ body
   background-color : grey;
   font-size : san-seriff;
 }
-li
-{
-  display : inline;
-  padding-right : 20px;
-}
-ul a {
-  text-decoration : none;
-  color : Yellow;
 
-}
 #header {
-  background-colour : green;
+  background-colour : #5c755e;;
   margin : 10px;
   height :90px;
 }
 #navbar {
-  background-colour : green;
+  background-colour : #5c755e;
   margin : 10px;
   height :90px;
 }
